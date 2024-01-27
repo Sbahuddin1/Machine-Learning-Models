@@ -1,0 +1,3 @@
+# Laptop Price Prediction Model
+
+This simple machine learning model predicts laptop prices based on a CSV dataset. Using a Random Forest Regressor, the model learns patterns from features like processor speed, RAM, storage, and more. Beginners can easily grasp the implementation, making it an ideal starting point for exploring machine learning with practical applications. The dataset provides a hands-on experience in preprocessing and training, empowering users to make price predictions for laptops. Dive into the world of regression and predict laptop prices with ease!
